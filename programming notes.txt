@@ -1,0 +1,11 @@
+creating ssh
+open cmd
+mkdir .ssh
+mypath(C:\Users\Sonu>)
+for reference : https://kb.raptoritconsultants.com/generating-ssh-keys-on-windows-systems/
+ssh-keygen -t ed25519
+set a name: josh1
+for see as text and copying: cat josh1.pub (linux)
+more josh1.pub (windows)
+
+removing files and folders from a directory: rm -r myDirectory/path
